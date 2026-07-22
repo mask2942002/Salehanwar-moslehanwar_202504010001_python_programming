@@ -20,5 +20,4 @@ The IT Helpdesk Ticket Registration System is a modular Python application desig
 4. View the generated ticket summary in the terminal output.
 
 ## 4. Demonstration
-*(Insert your screen recording video or GIF here)*
-![App Demo](ScreenRecording2026-07-22112823-ezgif.com-video-to-gif-converter.gif)
+![alt text](moslehvideo-ezgif.com-video-to-gif-converter.gif)
